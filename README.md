@@ -1,5 +1,5 @@
 ## Yo there
-![](https://komarev.com/ghpvc/?username=pandatickk&color=blueviolet&style=plastic&base=86)
+![](https://komarev.com/ghpvc/?username=pandatickk&color=blueviolet&style=plastic)
 
 <div align="center">
     <img src="https://media.tenor.com/VfjScfbt0KEAAAAi/nagi-squish-nagi.gif" style="background: transparent;" />
